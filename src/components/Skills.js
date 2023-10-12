@@ -12,7 +12,7 @@ const Skills = () => {
      <div>
 
       <div>
-      <i class="fa-brands fa-html5"></i>
+      <i class="fa-brands fa-html5" ></i>
       <span>HTML</span>
       </div>
       <div>
